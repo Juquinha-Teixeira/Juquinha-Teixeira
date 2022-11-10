@@ -18,6 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juquinha-teixeira&show_icons=true&locale=en&layout=compact" alt="juquinha-teixeira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juquinha-teixeira&show_icons=true&locale=en" alt="juquinha-teixeira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juquinha-teixeira&" alt="juquinha-teixeira" /></p>
