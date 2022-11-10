@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Pedro Lopes Teixeira</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src"https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img alt="Coder GIF" align="right" width=400 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juquinha-teixeira&label=Profile%20views&color=0e75b6&style=flat" alt="juquinha-teixeira" /> </p>
 
