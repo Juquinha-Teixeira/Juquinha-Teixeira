@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Pedro Lopes Teixeira</h1>
+<h1 align="center">Hi 👋, I'm João Pedro</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <img alt="Coder GIF" height=250 width=350 align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
