@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Pedro</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<!--<img alt="Coder GIF" height=250 width=350 align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />-->
+<img alt="Coder GIF" height=250 width=350 align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juquinha-teixeira&label=Profile%20views&color=0e75b6&style=flat" alt="juquinha-teixeira" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=juquinha-teixeira&label=Profile%20views&color=0e75b6&style=flat" alt="juquinha-teixeira" /> </p>-->
 
 - 🌱 I’m currently learning **JavaScript**
 
