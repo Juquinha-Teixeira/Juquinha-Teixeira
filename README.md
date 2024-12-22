@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Pedro Lopes Teixeira</h1>
-<h3 align="center">A Back-End Developer from Brazil</h3>
+<h3 align="center">A Full Stack Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **C#, Java and React**
+- 🌱 I’m currently learning **Java and Angular**
 
 - 📫 How to reach me **joaopedroteixeira749@gmail.com**
 
